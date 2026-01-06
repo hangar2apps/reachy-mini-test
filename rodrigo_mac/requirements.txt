@@ -1,0 +1,21 @@
+# Core
+numpy
+scipy
+python-dotenv
+
+# STT - Whisper (choose one)
+faster-whisper  # Recommended for M4
+# openai-whisper  # Alternative
+
+# LLM
+anthropic
+
+# TTS
+gtts
+
+# Local audio (Mac mic/speakers)
+sounddevice
+
+# Robot (for head movements)
+reachy-mini
+
